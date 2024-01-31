@@ -1,0 +1,5 @@
+URL de la demande :
+https://gateway.marvel.com:443/v1/public/characters?apikey=7622f790bf1f73538ed1a4ec3cf673b9
+
+Avec les paramètres, on obtient l'URL avec les paramètres en plus après :
+https://gateway.marvel.com:443/v1/public/characters?name=a&nameStartsWith=da&modifiedSince=s&comics=s&series=s&events=s&stories=s&limit=s&offset=s&apikey=7622f790bf1f73538ed1a4ec3cf673b9
