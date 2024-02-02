@@ -9,6 +9,14 @@
     "dev": "node --watch src/server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Tony",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/static": "^6.12.0",
+    "@fastify/view": "^8.2.0",
+    "fastify": "^4.26.0",
+    "handlebars": "^4.7.8",
+    "node-fetch": "^3.3.2",
+    "point-of-view": "^6.3.0"
+  }
 }
